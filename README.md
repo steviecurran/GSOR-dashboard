@@ -7,3 +7,4 @@ Again all of the components where included, a particular highlight getting a col
 ![](https://raw.githubusercontent.com/steviecurran/GSOR-dashboard/refs/heads/main/Ex_3-p1.png)
 
 ![](https://raw.githubusercontent.com/steviecurran/GSOR-dashboard/refs/heads/main/Ex_3-p2.png)
+
